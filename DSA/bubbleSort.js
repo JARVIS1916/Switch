@@ -11,11 +11,11 @@ function bubblesort(arr,k){
             }
         }
         if(!swap){break;}
-        if(i== ((arr.length-1) - (k-1))){
+        if(i== ((arrs.length-1) - (k-1))){
             break;
         }
     }
-    console.log(arr);
+    console.log(arrs);
 }
 
 
